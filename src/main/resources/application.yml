@@ -1,0 +1,11 @@
+server:
+  port: ${PORT:8080}
+
+astra:
+  client-id: pOneTlMFMAKrQIjqApCvEvpR
+  client-secret: xfZwyHP_._oC,Orz-yHHKuGTdi3JG8eP11nj28CWZcS4vLRILXxg,Xr5,t.YvYhJaPNpL.zczxKcmUEONYugHQNWsIzd.bFKTHRNi5Eck0gXY.mNf5jfvG3eTqvG-aEi
+  application-token: AstraCS:pOneTlMFMAKrQIjqApCvEvpR:a6c349e41583fba3fa24c71c0b7c5cae447e2919e12591ac2249e31d9c891aef
+
+  cloud-region: ap-southeast-1
+  database-id: 6aa98eae-bd82-46a3-a735-adaa9ad4a9fe
+  keyspace: stargate
